@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dramalho/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/dramalho/Desktop/HW2017MobileDevLab9/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_86cd4b2d948573d435c68ee1f7d3d5eafb2ba981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dramalho/.android/build-cache/2e90d44cd0ab492ba9fec5063389063b81a01fff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/dramalho/Desktop/HW2017MobileDevLab9/app/build/intermediates/pre-dexed/debug/classes_7e9971dc56caaa27b20d6ef52f9a6522d1d17f12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dramalho/.android/build-cache/d4bf1ded9dfc29e28a1caf160653884ff820a05e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/dramalho/Desktop/HW2017MobileDevLab9/app/build/intermediates/pre-dexed/debug/classes_42d7623e64c038c9755b4adab016967c28858918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dramalho/.android/build-cache/ab1ef87567f4a42bdfe3d1d1ac75d36e3522b757/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/dramalho/Desktop/HW2017MobileDevLab9/app/build/intermediates/pre-dexed/debug/classes_b5a3c3ae7bcddeff1b7c35ec44bdaefaacc6f4c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dramalho/.android/build-cache/b480405d61ca8217d05231d10ed2cfe990eca3af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/dramalho/Desktop/HW2017MobileDevLab9/app/build/intermediates/pre-dexed/debug/classes_4eeab92b66f8a023b49b36126b16dc32af7465af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dramalho/.android/build-cache/fb9f98ab945ed407e248afea3eeadde4518bd13e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dramalho/Desktop/HW2017MobileDevLab9/app/build/intermediates/pre-dexed/debug/classes_581a6cccc76dbb11834cb04c6aefc9f231f6058f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dramalho/.android/build-cache/5ad06be484a875fb9d95009fed942d499cda82fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/dramalho/Desktop/HW2017MobileDevLab9/app/build/intermediates/pre-dexed/debug/classes_14690ce1a0087d080f5ca2b41204bca01d10b32d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dramalho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/dramalho/Desktop/HW2017MobileDevLab9/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_37f56b1e086d3dc26e0320f2a7b71fd336ea9164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dramalho/.android/build-cache/4eadc07c4e3e4127e0f2ecd413a6efe6730a7d0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/dramalho/Desktop/HW2017MobileDevLab9/app/build/intermediates/pre-dexed/debug/classes_4d92edce6d56945b915729b56ba78ee67d60ebbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dramalho/.android/build-cache/bf4069ba03867ed53404de016692175061b23aca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/dramalho/Desktop/HW2017MobileDevLab9/app/build/intermediates/pre-dexed/debug/classes_2f41f737423224120f0121bb1bc81cdd78bd5962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dramalho/.android/build-cache/218e0b65c3bdf8101cede872c0701af028c877ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/dramalho/Desktop/HW2017MobileDevLab9/app/build/intermediates/pre-dexed/debug/classes_904c8a3baec78d77cc0b4f767db004f041c5a261.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dramalho/.android/build-cache/58f806b1067f4e7356ba424a439de45274d86ad2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/dramalho/Desktop/HW2017MobileDevLab9/app/build/intermediates/pre-dexed/debug/classes_860727d7280ad6ca20197d97818ae1d24c145e86.jar" />
+    </item>
+
+</items>
